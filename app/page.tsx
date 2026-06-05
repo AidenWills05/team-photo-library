@@ -21,10 +21,7 @@ export default async function Home() {
 
       <section className="mx-auto grid min-h-[calc(100vh-73px)] max-w-7xl items-center gap-10 px-6 py-20 sm:px-8 lg:grid-cols-[1.05fr_0.95fr] lg:px-12">
         <div>
-          <p className="mb-4 inline-flex rounded-full px-3 py-1.5 text-[0.65rem] font-semibold uppercase tracking-[0.18em] homey-pill">
-  Photo Hub
-</p>
-
+          
 <h1 className="max-w-4xl text-4xl font-extrabold tracking-[-0.03em] text-[#26231f] sm:text-5xl md:text-6xl">
   Team photos, organized and easy to access
   </h1>
